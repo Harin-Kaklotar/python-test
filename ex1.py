@@ -1,14 +1,6 @@
-from sys import argv
-
-script, fileName = argv
-
-print "your script name: %r " % script
-print "your file name is: %r " %fileName
-
-print "now we are opning file"
-
-filen = open(fileName)
-
-readFile = filen.read()
-
-print "And the file says: %r" %readFile
+#simple python print example
+print "Hello harin"
+print "welcome to python"
+print "Use of the print function"
+print "I love programming"
+print "simple print function"
