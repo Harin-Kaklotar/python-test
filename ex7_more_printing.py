@@ -28,6 +28,8 @@ char_value11 = "t"
 char_value12 = "a"
 char_value13 = "r"
 
+# actually this is my full name ;)
+
 
 # now print all the characters
 print char_value1 + char_value2 + char_value3 + char_value4 +char_value5 + char_value6 + char_value7 + char_value8 + char_value9 + char_value10 + char_value11 + char_value12 + char_value13
