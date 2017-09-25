@@ -36,3 +36,22 @@ print "you %s ice-cream" %likeIceCreame
 print "so your name is %s, and %s year old. you love %s, and you use %s operating system. which is cool. and you %s ice-cream" %(name, age, hobby, os, likeIceCreame)
 
 print "we can take all type of value using raw_input()"
+
+print "which movie do you like?"
+print "1. Titanic"
+print "2. The Dark Knight Rises"
+print "3. Harry Potter"
+
+movieNumber = raw_input("please enter your choice [1-3] : ")
+
+print "ok now we check your knowladge ;)"
+
+ansOne = (raw_input("what is 2+2 = ")
+print "you said", ansOne
+
+
+
+# big news in python 3.x raw_input() is change to input()
+# but for now we use raw_input() >> python 2.7
+
+
