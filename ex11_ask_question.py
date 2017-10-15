@@ -46,8 +46,8 @@ movieNumber = raw_input("please enter your choice [1-3] : ")
 
 print "ok now we check your knowladge ;)"
 
-ansOne = (raw_input("what is 2+2 = ")
-print "you said", ansOne
+ansOne = raw_input("what is 2+2 = ")
+print "you said %s" %ansOne
 
 
 
