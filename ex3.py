@@ -32,4 +32,39 @@ print " is 5 == 4", 5 == 4
 print "is 5 != 4", 5 != 4
 
 
+print "wowowowo this is kinda high level so lets begin with easy one"
+
+print "let's first store some value in variable"
+
+a = 10
+b = 10.5
+
+# I don't know how python know/identify intiger and double value
+
+print a+b
+print a/b
+print a%b
+print a-b
+print a*b
+
+# well let's find out how to sqare in python, no doing a*a like but using some python method
+
+print "sums : ", a+b
+
+print "multiplication of 2*3*4*5*6*7*8*9 = ", 2*3*4*5*6*7*8*9
+print "cool lets do some big ;) "
+
+print 23.05121861088468424646284 * 3.4643547488863434243242352646456
+
+print "lets check about this"
+
+# oh this will gave error : ZeroDivisionError
+# print 1/0
+# well python is not smart it should give infinity as answer
+# but we are :)
+
+print 2 <3
+print 3 < 5 > 4 < 7 < 8
+
+
 

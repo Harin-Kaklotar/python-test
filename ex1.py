@@ -1,5 +1,10 @@
+# _*_ coding : utf-8 _*_
+# _*_ coding: mbcs _*_
+# adding above line can use your country language
+
 #simple python print example
-print "Hello harin"
+print "Hello ?????"
+print "My name is Harin."
 print "welcome to python"
 print "Use of the print function"
 print "I love programming"
