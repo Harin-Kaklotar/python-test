@@ -66,5 +66,44 @@ print "lets check about this"
 print 2 <3
 print 3 < 5 > 4 < 7 < 8
 
+# left shift and right shift operator work bit vise
+
+print 'left shift'
+print 10 << 1
+
+print 'right shift'
+print 10 >> 1
 
 
+x = 4
+y = 5
+
+print 'x + y = ', x+y
+print 'x - y = ', x-y
+print 'x * y = ', x*y
+print 'x / y = ', x/y
+print 'x % y = ', x%y
+
+print 'x ** y = ', x**y
+print 'x // y = ', x//y
+print 'x > y = ', x > y
+print 'x < y = ', x < y
+print 'x >= y = ', x >= y
+print 'x <= y = ', x <= y
+print 'x ==y = ', x==y
+print 'x != y = ', x!=y
+
+print 'now logical oprator'
+print 'x and y =', x and y
+print 'x or y = ', x or y
+print 'x not = ', not x
+
+print 'bitwise oprator'
+print 'x << y = ',x << y
+print 'x >> y = ', x >> y
+print 'x & y = ', x & y
+print 'x | y = ', x | y
+#   Bitwise NOT
+print 'x ~ y =', x ~ y
+#	Bitwise XOR
+print 'x ^ y = ', x ^ y  

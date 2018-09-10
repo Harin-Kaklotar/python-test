@@ -10,3 +10,5 @@ bus = 10  # this is bus variable
 
 print "This will run"
 
+print 'we are learning comment in python' # he we can put description of this line of code
+
